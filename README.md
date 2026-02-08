@@ -13,7 +13,7 @@ This Working Group Focuses on understanding the Magic Squares and find suitable 
 #### Religious Context
 
 ### D#2: Development of Recreational Magic Squares
-#### RT^2 (Ram-Tejhu Magic Square)
+#### [RT^2 (Ram-Tejhu Magic Square)](https://github.com/Amrita-TIFAC-Cyber-Blockchain/RT2)
 
 ### D#3: Magic Squares Application in Cyber Security
 #### Information Hiding
@@ -24,6 +24,6 @@ This Working Group Focuses on understanding the Magic Squares and find suitable 
 
 |   Member   |   Role        |
 |:-----------|:--------------|
-| Ramaguru Radhakrishnan | Project Lead |
-| Tejhaswhini C B        | Member |
+| [Ramaguru Radhakrishnan](https://github.com/ramagururadhakrishnan) | Project Lead |
+| [Tejhaswhini C B](https://github.com/TejhashwiniCB) | Member |
 
